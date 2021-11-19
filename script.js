@@ -1,5 +1,7 @@
-let currentDate = moment().format("MMMM Do YYYY, h:mm:ss a");
+let currentDate = moment().format("MMMM Do YYYY, h:mm a");
 console.log(currentDate);
 let timeSlot = document.getElementById("currentDay");
 console.log(timeSlot.textContent);
 timeSlot.textContent = currentDate;
+
+// $(".saveBtn").on("click", function () {});
