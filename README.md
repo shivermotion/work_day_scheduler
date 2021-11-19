@@ -1,6 +1,8 @@
 # work_day_scheduler
  A simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
+![work_day_scheduler_snapshot](https://user-images.githubusercontent.com/75548830/142571393-db89186e-2630-4ba8-af0a-2925ca8dd598.png)
+
 ## Links
 GitHub Repo: https://github.com/shivermotion/work_day_scheduler
 
