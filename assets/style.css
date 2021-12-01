@@ -32,7 +32,7 @@ textarea {
 
 .row {
 	white-space: pre-wrap;
-	height: 200px;
+	height: 80px;
 	border-top: 1px solid white;
 }
 
@@ -44,17 +44,17 @@ textarea {
 
 .past {
 	background-color: #d3d3d3;
-	color: grey;
+	color: white;
 }
 
 .present {
 	background-color: #ff6961;
-	color: red;
+	color: white;
 }
 
 .future {
 	background-color: #77dd77;
-	color: green;
+	color: white;
 }
 
 .saveBtn {
@@ -63,12 +63,9 @@ textarea {
 	border-bottom-right-radius: 15px;
 	background-color: #06aed5;
 	color: white;
-	text-align: center;
-	padding-top: 15px;
 }
 
-.saveBtn:hover {
+.saveBtn i:hover {
 	font-size: 20px;
 	transition: all 0.3s ease-in-out;
-	cursor: pointer;
 }
