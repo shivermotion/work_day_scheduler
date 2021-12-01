@@ -1,3 +1,4 @@
+//RT-Clock
 let currentDate = moment().format("MMMM Do YYYY, h:mm a");
 console.log(currentDate);
 let timeSlot = document.getElementById("currentDay");
